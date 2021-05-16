@@ -20,6 +20,8 @@ Back end for e-commerce website using MySQL and Sequelize
 
 - [Tests](#tests)
 
+- [Links](#links)
+
 - [Questions](#questions)
 
 ## Installation
@@ -28,7 +30,9 @@ Create the database using MySQL "CREATE DATABASE ecommerce_db;". Run 'npm run se
 
 ## Usage
 
-Run 'npm start' from the terminal. This is a script that will run 'node server.js'.
+Run 'npm start' from the terminal. This is a script that will run 'node server.js'. You should see 'App listening on port 3001!'. See video for usage demonstration.
+
+NOTE\*\*\* The product put route that was provided in the develop folder is throwing an error in Insomnia but it completes the update to the database. I'm not sure why there is an error.
 
 ## License
 
@@ -44,10 +48,15 @@ Mark Raudenbush
 
 Minimal testing performed.
 
-## Questions
+## Links
 
-You can access my GitHub profile throught the following link.
-[My GitHub](https://github.com/markraud)
+[GitHub Repo for E-Commerce Back End](https://github.com/markraud/orm-ecommerce-back-end)
+
+[My GitHub Profile](https://github.com/markraud)
+
+[Demonstration Video](https://drive.google.com/file/d/1ZO-y-N4OiOqXUj_b4GTKlkpUub-KU6_o/view)
+
+## Questions
 
 Please email with any questions.
 [markraud@hotmail.com](mailto:markraud@hotmail.com)
